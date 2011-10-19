@@ -1,0 +1,77 @@
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	xmlns:rdfr="http://rhizomik.net/redefer#"
+>
+	<rdfr:Mapping rdfr:context="XBRL" 
+		rdfr:xmlns="http://www.xbrl.org/2003/XLink" 
+		rdfr:alias="xl" 
+		rdfr:rdfns="http://rhizomik.net/ontologies/2007/11/xl-2003-12-31.owl#" 
+		rdfr:rdfsrc="D:\Proyectos\bizOntos\XBRL\us-xbrl\xl-2003-12-31.owl"/>
+		
+	<rdfr:Mapping rdfr:context="XBRL"
+		rdfr:xmlns="http://www.xbrl.org/2003/linkbase" 
+		rdfr:alias="link" 
+		rdfr:rdfns="http://rhizomik.net/ontologies/2007/11/xbrl-linkbase-2003-12-31.owl#" 
+		rdfr:rdfsrc="D:\Proyectos\bizOntos\XBRL\us-xbrl\xbrl-linkbase-2003-12-31.owl"/>
+
+	<rdfr:Mapping rdfr:context="XBRL"
+		rdfr:xmlns="http://www.w3.org/1999/xlink" 
+		rdfr:alias="xlink" 
+		rdfr:rdfns="http://rhizomik.net/ontologies/2007/11/xlink-2003-12-31.owl#" 
+		rdfr:rdfsrc="D:\Proyectos\bizOntos\XBRL\us-xbrl\xlink-2003-12-31.owl"/>
+
+	<rdfr:Mapping rdfr:context="XBRL"
+		rdfr:xmlns="http://www.xbrl.org/2003/instance" 
+		rdfr:alias="xbrli" 
+		rdfr:rdfns="http://rhizomik.net/ontologies/2007/11/xbrl-instance-2003-12-31.owl#" 
+		rdfr:rdfsrc="D:\Proyectos\bizOntos\XBRL\us-xbrl\xbrl-instance-2003-12-31.owl"/>
+		
+	<rdfr:Mapping rdfr:context="XBRL" 
+		rdfr:xmlns="http://www.xbrl.org/us/fr/common/ptr/2005-02-28" 
+		rdfr:alias="usfr-ptr" 
+		rdfr:rdfns="http://rhizomik.net/ontologies/2008/07/usfr-ptr-2005-02-28.owl#" 
+		rdfr:rdfsrc="D:\Proyectos\bizOntos\XBRL\us-xbrl\usfr-ptr-2005-02-28.owl"/>
+		
+	<rdfr:Mapping rdfr:context="XBRL"
+		rdfr:xmlns="http://www.xbrl.org/us/fr/gaap/ci/2005-02-28" 
+		rdfr:alias="us-gaap-ci" 
+		rdfr:rdfns="http://rhizomik.net/ontologies/2008/07/us-gaap-ci-2005-02-28.owl#" 
+		rdfr:rdfsrc="D:\Proyectos\bizOntos\XBRL\us-xbrl\us-gaap-ci-2005-02-28.owl"/>
+
+	<rdfr:Mapping rdfr:context="XBRL" 
+		rdfr:xmlns="http://www.xbrl.org/us/fr/common/pte/2005-02-28" 
+		rdfr:alias="usfr-pte" 
+		rdfr:rdfns="http://rhizomik.net/ontologies/2008/07/usfr-pte-2005-02-28.owl#" 
+		rdfr:rdfsrc="D:\Proyectos\bizOntos\XBRL\us-xbrl\usfr-pte-2005-02-28.owl"/>
+
+	<rdfr:Mapping rdfr:context="XBRL" 
+		rdfr:xmlns="http://www.xbrl.org/us/fr/rpt/mda/2005-02-28" 
+		rdfr:alias="usfr-mda"
+		rdfr:rdfns="http://rhizomik.net/ontologies/2008/07/usfr-mda-2004-08-15.owl#" 
+		rdfr:rdfsrc="D:\Proyectos\bizOntos\XBRL\us-xbrl\usfr-mda-2004-08-15.owl"/>
+		
+	<rdfr:Mapping rdfr:context="XBRL" 
+		rdfr:xmlns="http://xbrl.us/us-types/2008-03-31" 
+		rdfr:alias="us-types"
+		rdfr:rdfns="http://rhizomik.net/ontologies/2008/07/us-types-2008-03-31.owl#" 
+		rdfr:rdfsrc="D:\Proyectos\bizOntos\XBRL\us-xbrl\us-types-2008-03-31.owl"/>
+		
+	<rdfr:Mapping rdfr:context="XBRL" 
+		rdfr:xmlns="http://xbrl.org/2005/xbrldt" 
+		rdfr:alias="xbrldt"
+		rdfr:rdfns="http://rhizomik.net/ontologies/2008/07/xbrldt-2005.owl#" 
+		rdfr:rdfsrc="D:\Proyectos\bizOntos\XBRL\us-xbrl\xbrldt-2005.owl"/>
+
+	<rdfr:Mapping rdfr:context="XBRL" 
+		rdfr:xmlns="http://www.adobe.com/adbe/2008-05-30" 
+		rdfr:alias="adbe20080530"
+		rdfr:rdfns="http://rhizomik.net/content/bizontos/xbrl-edgar/adbe-20080530.owl#" 
+		rdfr:rdfsrc="D:\Proyectos\bizOntos\XBRL\examples\adbe-20080530.owl"/>
+		
+	<rdfr:Mapping rdfr:context="XBRL" 
+		rdfr:xmlns="www.adobe.com/adbe/2008-08-29" 
+		rdfr:alias="adbe20080829"
+		rdfr:rdfns="http://rhizomik.net/content/bizontos/xbrl-edgar/adbe-20080829.owl#" 
+		rdfr:rdfsrc="D:\Proyectos\bizOntos\XBRL\examples\adbe-20080829.owl"/>
+		
+</rdf:RDF>

@@ -1,0 +1,42 @@
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	xmlns:rdfr="http://rhizomik.net/redefer#"
+>
+<rdfr:Mapping rdfr:context="MPEG-21 REL"
+	rdfr:xmlns="urn:mpeg:mpeg21:2003:01-REL-R-NS"
+	rdfr:alias="r"
+	rdfr:rdfns="http://rhizomik.net/ontologies/2004/08/relonto-r.owl#"
+	rdfr:rdfsrc="http://rhizomik.net/ontologies/2004/08/relonto-r.owl"/>
+<rdfr:Mapping rdfr:context="MPEG-21 REL"
+	rdfr:xmlns="urn:mpeg:mpeg21:2003:01-REL-SX-NS"
+	rdfr:alias="sx"
+	rdfr:rdfns="http://rhizomik.net/ontologies/2004/08/relonto-sx.owl#"
+	rdfr:rdfsrc="http://rhizomik.net/ontologies/2004/08/relonto-sx.owl"/>
+<rdfr:Mapping rdfr:context="MPEG-21 REL"
+	rdfr:xmlns="urn:mpeg:mpeg21:2003:01-REL-MX-NS"
+	rdfr:alias="mx"
+	rdfr:rdfns="http://rhizomik.net/ontologies/2004/08/relonto-mx.owl#"
+	rdfr:rdfsrc="http://rhizomik.net/ontologies/2004/08/relonto-mx.owl"/>
+	
+<rdfr:Mapping rdfr:context="dsig"
+	rdfr:xmlns="http://www.w3.org/2000/09/xmldsig#"
+	rdfr:alias="ds"
+	rdfr:rdfns="http://rhizomik.net/ontologies/2004/08/xmldsig-core.owl#"
+	rdfr:rdfsrc="http://rhizomik.net/ontologies/2004/08/xmldsig-core.owl"/>
+<rdfr:Mapping rdfr:context="xenc" 
+	rdfr:xmlns="http://www.w3.org/2001/04/xmlenc#" 
+	rdfr:alias="xenc" 
+	rdfr:rdfns="http://rhizomik.net/ontologies/2004/08/xenc.owl#"
+	rdfr:rdfsrc="http://rhizomik.net/ontologies/2004/08/xenc.owl"/>
+
+<rdfr:Mapping rdfr:context="ODRL"
+	rdfr:xmlns="http://odrl.net/1.1/ODRL-EX"
+	rdfr:alias="o-ex"
+	rdfr:rdfns="http://rhizomik.net/ontologies/2004/10/ODRL-EX-11.owl#"
+	rdfr:rdfsrc="http://rhizomik.net/ontologies/2004/10/ODRL-EX-11.owl"/>
+<rdfr:Mapping rdfr:context="ODRL"
+	rdfr:xmlns="http://odrl.net/1.1/ODRL-DD"
+	rdfr:alias="o-dd"
+	rdfr:rdfns="http://rhizomik.net/ontologies/2004/10/ODRL-DD-11.owl#"
+	rdfr:rdfsrc="http://rhizomik.net/ontologies/2004/10/ODRL-DD-11.owl"/>
+</rdf:RDF>
