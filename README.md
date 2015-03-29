@@ -1,15 +1,15 @@
 Project Description
 ===================
 
-The ReDeFer project is a compendium of RDF-aware utilities organised in a set of packages:
+The ReDeFer project is a compendium of RDF-aware utilities:
 
-* RDF2HTML: render a piece of RDF/XML as HTML.
-* RDF2HTML+RDFa: render a piece of RDF/XML as HTML+RDFa.
-* XSD2OWL: transform an XML Schema into an OWL Ontology.
-* CS2OWL: transform a MPEG-7 Classification Scheme into an OWL Ontology.
-* XML2RDF: transform a piece of XML into RDF.
-* RDF2SVG: render a piece of RDF/XML as a SVG showing the corresponding graph. 
-This project is available from [redefer-rdf2svg](https://github.com/rhizomik/redefer-rdf2svg)
+* **RDF2HTML+RDFa**: render RDF/XML as HTML, optionally embedding RDFa.
+ * This project is now available and maintained separately at [redefer-rdf2html](https://github.com/rhizomik/redefer-rdf2html)
+* **RDF2SVG**: render a piece of RDF/XML as a SVG showing the corresponding graph. 
+ * This project is now available and maintained separately at [redefer-rdf2svg](https://github.com/rhizomik/redefer-rdf2svg)
+* **XSD2OWL**: transform an XML Schema into an OWL Ontology.
+* **CS2OWL**: transform a MPEG-7 Classification Scheme into an OWL Ontology.
+* **XML2RDF**: transform a piece of XML into RDF.
 
 Versions History
 
